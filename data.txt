@@ -4,3 +4,10 @@ Ran,25
 Donald Trump,40
 Naruto,17
 Donald Duck,75
+Boy,32
+Bella,23
+Tomi,27
+Bima,30
+Cinta,21
+Jhony,35
+Jihan,40
